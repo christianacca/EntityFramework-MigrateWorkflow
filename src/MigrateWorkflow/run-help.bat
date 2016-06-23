@@ -1,0 +1,2 @@
+MigrateWorkflow.exe /help
+PAUSE
